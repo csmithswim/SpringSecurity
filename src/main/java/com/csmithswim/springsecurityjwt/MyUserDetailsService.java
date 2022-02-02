@@ -1,4 +1,4 @@
-package com.csmithswim.springsecurityjwt.Services;
+package com.csmithswim.springsecurityjwt;
 
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
